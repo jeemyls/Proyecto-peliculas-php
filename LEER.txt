@@ -3,3 +3,6 @@ Para Montar el proyecto se debe Realizar los siguientes pasos
 2. Crear Base de datos "POS"
 3. Realizar Commit de SQL
 4. Descomprimir la Carpeta "POS" en la Ruta "C:\xampp\htdocs"
+
+Página html: http://localhost/pos/inicio
+usuario: admin    password:admin
