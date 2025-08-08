@@ -1,0 +1,5 @@
+Para Montar el proyecto se debe Realizar los siguientes pasos
+1. Instalar Xammp en la verision 7.1
+2. Crear Base de datos "POS"
+3. Realizar Commit de SQL
+4. Descomprimir la Carpeta "POS" en la Ruta "C:\xampp\htdocs"
